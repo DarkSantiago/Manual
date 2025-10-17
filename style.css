@@ -1,4 +1,4 @@
-<style>
+
     :root {
       --c1:#032CA6; /* profundo */
       --c2:#033E8C; /* oscuro */
@@ -154,4 +154,3 @@
       .toc { position: relative; top: 0; }
       .hamb { display:inline-flex; }
     }
-  </style>
