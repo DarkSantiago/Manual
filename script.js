@@ -1,4 +1,4 @@
-<script>
+
     // Atajo para enfocar búsqueda
     const search = document.getElementById('search');
     window.addEventListener('keydown', (e) => {
@@ -65,4 +65,3 @@
       };
       html2pdf().from(area).set(opt).save();
     });
-  </script>
